@@ -6,4 +6,5 @@ We happily accept pull requests with edits and new sections.
 
 ## Some good places to start
 
-[Getting Started with Mapillary]()
+[Getting Started with Mapillary](https://github.com/mapillary/UserGuide/wiki/GettingStarted)  
+[User Guide home page]()
