@@ -8,3 +8,8 @@ We happily accept pull requests with edits and new sections.
 
 [Getting Started with Mapillary](https://github.com/mapillary/UserGuide/wiki/GettingStarted)  
 [User Guide home page]()
+
+
+## Test and get Android app pre-releases
+
+If you want to help testing and receive early access Alpha and Beta releases of the Mapillary Android app, please join [this Google+ group](https://plus.google.com/communities/104427435312937590517). Thanks for helping!
