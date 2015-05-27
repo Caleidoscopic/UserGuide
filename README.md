@@ -5,6 +5,7 @@ This is our collaborative user guide where you can find or share details on anyt
 We happily accept pull requests with edits and new sections. 
 
 ## Some good places to start
+|:----|:----|:----|:----|
 |Getting Started|User Guide Homepage|Capturing|Uploading|
 |![Getting Started](icons/Getting_Started.png)|![User Guide Homepage](icons/User_Guide_Homepage.png)|![Capturing](icons/Capturing.png)|![Uploading](/icons/Uploading.png)|
 |[Getting Started with Mapillary](https://github.com/mapillary/UserGuide/wiki/GettingStarted)|[User Guide home page]()|----|----|
