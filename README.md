@@ -5,10 +5,9 @@ This is our collaborative user guide where you can find or share details on anyt
 We happily accept pull requests with edits and new sections. 
 
 ## Some good places to start
-|[Getting Started](https://github.com/mapillary/UserGuide/wiki/GettingStarted)|User Guide Homepage|Capturing|Uploading|
+|[Getting Started](https://github.com/mapillary/UserGuide/wiki/GettingStarted)|[User Guide Home Page](https://github.com/mapillary/UserGuide/wiki/Home_Page)|[Capturing](https://github.com/mapillary/UserGuide/wiki/Capturing)|[Uploading](https://github.com/mapillary/UserGuide/wiki/Uploading)|
 |:----|:----|:----|:----|
 |![Getting Started](icons/Getting_Started.png)|![User Guide Homepage](icons/User_Guide_Homepage.png)|![Capturing](icons/Capturing.png)|![Uploading](/icons/Uploading.png)|
-|[Getting Started with Mapillary](https://github.com/mapillary/UserGuide/wiki/GettingStarted)|[User Guide home page]()|[Capturing](https://github.com/mapillary/UserGuide/wiki/Capturing)||
 |Start using Mapillary|The Complete Guide|Advice for best capture results|Sharing your sequences with the world|
 
 ## Test and get Android app pre-releases
